@@ -1,0 +1,13 @@
+{
+  "name": "javascript-basics",
+  "version": "1.0.0",
+  "description": "JavaScript Basics exercises",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^2.1.8"
+  }
+}
