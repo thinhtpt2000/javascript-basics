@@ -6,7 +6,8 @@
  * ----------------------------------
  */
 export function defineVariables() {
-  // Start your exercise here
+  // Start your exercise her
+
   // End your exercise here
   return { a, b, sum, difference, product, quotient };
 }
